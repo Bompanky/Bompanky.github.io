@@ -2,12 +2,12 @@ h1, li {
     color: pink;
     text-align: center;
     position: relative;
+    background: #f2f2f2;
 }
 
 * {
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 32px;
-    background: #e6e6e6;
 }
 
 p {
@@ -16,4 +16,8 @@ p {
 
 div {
     text-align: center;
+}
+
+body {
+    background: #e6e6e6;
 }
