@@ -1,7 +1,7 @@
 li, ul {
     color: pink;
     text-align: center;
-    background-color: AntiqueWhite;
+    background: #f7f7f7;
     border-width: 254px;
     
 }
@@ -26,6 +26,6 @@ body {
 h1 {
     color: pink;
     text-align: center;
-    background-color: AntiqueWhite;
+    background: #f7f7f7;
     border-width: 254px;
 }
