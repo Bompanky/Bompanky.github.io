@@ -3,17 +3,16 @@ li, ul {
     text-align: center;
     background: #f2f2f2;
     border-width: 254px
-    font-size: 32px;
     
 }
 
 * {
     font-family: "Comic Sans MS", cursive, sans-serif;
+        font-size: 32px;
 }
 
 p {
     text-align: center;
-    font-size: 32px;
 }
 
 div {
@@ -29,5 +28,4 @@ h1 {
     text-align: center;
     background: #f2f2f2;
     border-width: 254px
-    font-size: 69px;
 }
