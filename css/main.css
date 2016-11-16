@@ -1,7 +1,7 @@
 li, ul {
     color: pink;
     text-align: center;
-    background: #E4BB97;
+    background: #f7f7f7;
     border-width: 254px
     
 }
@@ -21,11 +21,11 @@ div {
 }
 
 body {
-    background: #f7f7f7;
+    background: #E4BB97;
 }
 h1 {
     color: pink;
     text-align: center;
-    background: #E4BB97;
+    background:  #f7f7f7;
     border-width: 254px
 }
