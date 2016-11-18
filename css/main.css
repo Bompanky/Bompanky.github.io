@@ -12,6 +12,7 @@ li, ul {
 }
 p {
     font-size: 18px;
+    line-height: 1.0em;
 }
 
 div {
