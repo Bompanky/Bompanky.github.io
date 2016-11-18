@@ -10,6 +10,9 @@ li, ul {
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 32px;
 }
+p {
+    font-size: 18px;
+}
 
 div {
     text-align: center;
