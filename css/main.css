@@ -24,7 +24,7 @@ body {
     border-style: dashed;
     font-size: 18px;
 }
-.listtest {
+#listtest {
     background-image: url(/css/hm.png);
 }
     
