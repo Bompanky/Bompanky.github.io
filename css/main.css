@@ -1,11 +1,3 @@
-li, ul {
-    color: HotPink;
-    text-align: center;
-    background-color: BlanchedAlmond;
-    border-width: 254px;
-    
-}
-
 * {
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 32px;
@@ -27,13 +19,12 @@ body {
     border-width: 254px;
     font-weight: bold;
 }
-footer {
-    font-size: 9px;
-}
-
 .click {
     text-align: center;
     border-style: dashed;
     font-size: 18px;
+}
+.listtest {
+    background: "/css/hm.png"
 }
     
