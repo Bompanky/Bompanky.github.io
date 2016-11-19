@@ -16,11 +16,6 @@ p {
     line-height: 1.0em;
 }
 
-div {
-    text-align: center;
-    border-style: dashed;
-    font-size: 18px;
-}
 
 body {
     background: #E4BB97;
@@ -35,3 +30,10 @@ h1 {
 footer {
     font-size: 9px;
 }
+
+#click {
+    text-align: center;
+    border-style: dashed;
+    font-size: 18px;
+}
+    
