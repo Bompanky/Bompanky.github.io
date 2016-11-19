@@ -20,7 +20,7 @@ p {
 body {
     background: #E4BB97;
 }
-h1 {
+.pinklarge {
     color: HotPink;
     text-align: center;
     background-color: BlanchedAlmond;
